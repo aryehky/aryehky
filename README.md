@@ -2,8 +2,8 @@
 <img align="left"  width="10%"    height="100%" src="./assets/count.svg"/> 
 <br>
 <img width="20%"    height="100%" src="https://profile-counter.glitch.me/aryehky/count.svg"/>
-<br>
 <img align="right"   width="12.5%"    height="100%" src="./assets/moon.png"/>
+<br>
 <img align="left" src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" src="https://img.shields.io/badge/-ReactJS-grey?&style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" scr="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
