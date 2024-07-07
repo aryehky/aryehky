@@ -1,5 +1,4 @@
-<img align="left"   width="25%"    height="100%" src="./assets/visitor.svg"/> 
-<img align="left"   width="25%"    height="100%" src="./assets/count.svg"/> 
-<img align="left"   width="50%"    height="100%" src="./assets/spacer.png"/> 
-<img align="left"   width="50%"    height="100%" src="https://profile-counter.glitch.me/aryehky/count.svg"/>
-<img align="left"   width="50%"    height="100%" src="./assets/spacer.png"/> 
+<img align="left" src="./assets/visitor.svg"/> 
+<img align="center" src="./assets/count.svg"/> 
+<img align="right"   src="https://profile-counter.glitch.me/aryehky/count.svg"/>
+
