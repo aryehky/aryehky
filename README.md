@@ -1,5 +1,5 @@
 <img align="left"   width="15%"    height="100%" src="./assets/visitor.svg"/> 
-<img width="10%"    height="100%" src="./assets/count.svg"/> 
+<img width="12%"    height="100%" src="./assets/count.svg"/> 
 <img alight="right" width="25%"    height="100%" src="https://profile-counter.glitch.me/aryehky/count.svg"/>
 <img width="12.5%"    height="100%" src="./assets/moon.png"/>
 <br>
